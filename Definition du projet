@@ -1,1 +1,3 @@
-
+Definition du Gant-Musical-Arduino:
+Le but de ce projet est la création d'un gant relié a une carte arduino nano collé sur celui ci capable d'envoyer des données par Bluetooth
+a une application sur telephone.
