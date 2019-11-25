@@ -1,16 +1,17 @@
-        |  Semaine 1  |  Semaine 2  |  Semaine 3  |  Semaine 4  |  Semaine 5  |  Semaine 6  |  Semaine 7  |  Semaine 8  |
-        |  ---------  |  ---------  |  ---------  |  ---------  |  ---------  |  ---------  |  ---------  |  ---------  |
-Ruben   |
-        |
-        |
-        |
-        |
-        |
-        |
-Axel    |
-        |
-        |
-        |
-        |
-        |
-        |
+        |         Semaine 1         |         Semaine 2         |         Semaine 3         |         Semaine 4         |         Semaine 5         |         Semaine 6         |         Semaine 7         |         Semaine 8         |
+        |  ------------------------ | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
+Ruben   |Création du programme      |Prise en main de           |Implémentation de          |Suite de mise en place     |Suite de mise en place     |Adaptation des données     |Petits réglages et         |Petits réglages et         |
+        |pour détecter quels doigts |l'acceleromètre,           |l'acceleromètre au montage.|du montage.                |du montage.                |envoyées par bluetooth à   |finalisation               |finalisation               |
+        |sont appuyés.              |comprehension du           |                           |                           |                           |l'application, en fonction |                           |                           |
+        |                           |fonctionnement.            |Début de mise en place     |                           |                           |de l'application           |                           |                           |
+        |                           |                           |du Montage (gant+alu+      |                           |                           |                           |                           |                           |
+        |                           |                           |arduino).                  |                           |                           |                           |                           |                           |
+        |                           |                           |                           |                           |                           |                           |                           |                           |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Axel    |Appropriement de           |Création d'une application |Adapter la vitesse et le   |Aide de mise en place au   |implémenter le bluetooth   |Suite d'implémentation du  |Petits réglages et         |Petits réglages et         |
+        |l'environnement de         |utilisant des boutons      |volume des sons.           |montage                    |à l'application            |bluetooth.                 |finalisation               |finalisation               |
+        |travail sous Android       |simulés pour commencer à   |                           |                           |                           |                           |                           |                           |
+        |studio.                    |lancer des sons en boucle  |Trouver un moyen de        |                           |                           |Suite d'adaptation des     |                           |                           |
+        |                           |                           |faire des sons "audibles"  |                           |                           |sons musicalement          |                           |                           |
+        |                           |                           |et musicalement corrects.  |                           |                           |corrects                   |                           |                           |
+        |                           |                           |                           |                           |                           |                           |                           |                           |
