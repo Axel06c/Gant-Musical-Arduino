@@ -5,8 +5,8 @@ Celui-ci fonctionnera avec une carte arduino nano qui permettra de collecter les
 
 Plus précisément:  
   - [ ] Les plaques d'alluminium ou scotch en cuivre permetterons de faire contact entre les doigts quand on les presse contre le pouce.  
-  - [ ] L'acceleromètre permet de pouvoir détecter dans quel sens et dans quel direction se déplace notre main.  
-  - [ ] l'adruino est sensé pouvoir récuperer toute ces données, pour ensuite les analyser et finalement envoyer une chaine de caractère codée a l'application Android.  
-  - [ ] Cette application devra, en fonction des données récuperées, Lancer des sons, gérer leur volume, leur tempos.  
-  - [ ] Elle devra également proposer différentes banques de sons, pour permettre a l'utilisateur de profiter d'un plus grand panel d'écoute.
+  - [ ] L'acceleromètre pourra détecter le sens la direction de déplacement de notre main.  
+  - [ ] L'arduino doit récuperer toute ces données, pour ensuite les analyser et finalement envoyer une chaine de caractère codée a l'application Android.  
+  - [ ] Cette application devra, en fonction des données récuperées, lancer des sons, gérer leur volume et leur tempos.  
+  - [ ] Elle devra également proposer différentes banques de sons, pour permettre à l'utilisateur de profiter d'un plus grand panel d'echantillons sonores (jazz,rock,pop...).
 
