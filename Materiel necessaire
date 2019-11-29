@@ -1,16 +1,15 @@
-Materiel necessaire pour le Gant-musical-arudino :
--Accelerometre *2
--Gant (matiere a determiner)*2
--Boitier pour l’electronique (a determiner) *2
--Carte arduino nano*2
--Plaquette aluminium (quantité a determiner (*25 environ)) OU scotch cuivre
--Fils
--Colle speciale (pour coller l'alluminium)
--Batterie electrique portative (!!de l'ampérage de l'alimentation de la nano!!)
+Matériel nécessaire pour le Gant-musical-arudino :
+  - Accéléromètre *2
+  - Gant (matière a déterminer)*2
+  - Boitier pour l’électronique (à déterminer) *2
+  - Carte arduino nano*2
+  - Plaquette aluminium (quantité a déterminer (*25 environ)) OU scotch cuivre
+  - Fils
+  - Colle spéciale (pour coller l'aluminium)
+  - Batterie électrique portative (!!De l'ampérage de l'alimentation de la nano!!)
 
-Logiciel necessaire:
--Application android
--application arduino avec driver
--librairies arduino
--banques de sequences musicales
-
+Logiciel nécessaire:
+  - Application android
+  - Application arduino avec driver
+  - Librairies arduino
+  - Banques de séquences musicales
