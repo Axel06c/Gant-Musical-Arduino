@@ -1,5 +1,5 @@
 # Gant-Musical-Arduino
-Notre projet est de créer un gant capable de jouer des sons pour créer de de la musique en touchant ses doigts et en déplaçant sa main dans l'espace.
+Notre projet est de créer un __gant__ capable de __jouer des sons__ pour __créer de de la musique__ en touchant ses doigts et en déplaçant sa main dans l'espace.
 
 Plus précisément:  
   -[ ]Les plaques d'alluminium ou scotch en cuivre permetterons de faire contact entre les doigts quand on les presse contre le pouce.  
