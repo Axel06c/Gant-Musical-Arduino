@@ -1,4 +1,4 @@
-# __Musicano__ (Gant Musical Arduino)
+# Musicano (Gant Musical Arduino)
 Notre projet est de créer un __gant__ capable de __jouer des sons__ pour __créer de de la musique__ en touchant ses doigts et en déplaçant sa main dans l'espace.
 
 Celui-ci fonctionnera avec une carte arduino nano, qui permettra de collecter des données relatives au mouvement et au choix de son de l’utilisateur, afin de l’envoyer à l’application qui modifiera les sons c’est-à-dire la musique.
