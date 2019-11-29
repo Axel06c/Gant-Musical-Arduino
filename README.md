@@ -1,6 +1,8 @@
 # Gant-Musical-Arduino
 Notre projet est de créer un __gant__ capable de __jouer des sons__ pour __créer de de la musique__ en touchant ses doigts et en déplaçant sa main dans l'espace.
 
+Celui-ci fonctionnera avec une carte arduino nano qui permettra de collecter les données relatives au mouvement et au choix de son de l’utilisateur afin de l’envoyer à l’application qui modifiera donc les sons c’est-à-dire la musique
+
 Plus précisément:  
   - [ ] Les plaques d'alluminium ou scotch en cuivre permetterons de faire contact entre les doigts quand on les presse contre le pouce.  
   - [ ] L'acceleromètre permet de pouvoir détecter dans quel sens et dans quel direction se déplace notre main.  
