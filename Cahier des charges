@@ -1,0 +1,32 @@
+Fonctions du Musicano :
+  - Faire de la musique harmonieuse par la superposition de séquences musicales
+  - Modifier le volume de chaque séquence musicale
+  - Modifier le tempo de chaque séquence musicale
+  - Modifier le volume de la musique
+  - Modifier le volume du tempo
+  - Choisir les séquences musicales selon le genre à partir d'une banque de données
+  - Commander les séquences par le gant
+      -par contact entre doigts
+      -par mesure d'accélération de la main 
+  
+  
+ Performances du Musicano :
+  - Précision sur le volume compatible avec l'accéléromètre GY-521 (A Définir)
+  - Précision sur le tempo compatible avec l'accéléromètre GY-521 (A Définir)
+  - Capacité de choix de séquence musicale: >= 1 modif/sec
+  
+ 
+ Interfaces :
+ 
+    *Interface Gant :
+      - Envoyer des données par Bluetooth vers le téléphone
+      
+    *Interface Application :
+      - Comptabilité avec téléphone android/Smartphone uniquement
+      - Recevoir des données sur l'application afin de les traiter
+      - Permettre de choisir les séquences musicales
+      - Indiquer à l'utilisateur la séquence en cours de modification 
+      
+    *Interface Son :
+      - Haut-parleur du téléphone
+      - Enceinte externe connectée au téléphone
