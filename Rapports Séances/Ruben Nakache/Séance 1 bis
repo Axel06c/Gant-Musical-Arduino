@@ -1,9 +1,12 @@
 Séance 1 :
-Lors de cette premiere séance, j'ai créé le programme arduino pour detecter le doigt en contact avec le pouce, c'est a dire le mouvement
+Lors de cette premiere séance, j'ai créé le programme arduino pour detecter le doigt en contact avec le pouce, c'est à dire le mouvement
 choisi donc le son qui lui est associé.
 Pour cela nous avons prévu de brancher le 5 volt de la carte à une plaque de cuivre collée au gant au niveau du pouce et des voltemetres 
-(pins en INPUT) à des plaque de cuivre collées au gant au niveau des autres doigts.
-(afin de mesurer la tension passant dans les pins associée aux doigts (par des plques de cuivres) donc le contact entre ceux ci et le pouce).
-J'ai aussi commencé le programme pour envoyer les données recuperés par le programme de detection par Bluetooth à
-l'application créée par Axel.
-Pour finir, j'ai observé le fonctionnnement de l'arduino nano par des tests avec le Bluetooth (donc le module Bluetooth).
+(pins en INPUT) à des plaque de cuivre collées au gant au niveau des autres doigts (2 à 3 pins par doigt).
+Ainsi cela permettrait de mesurer la tension passant dans les pins associée aux doigts donc de savoir quelle pin/quel doigt est en contact
+avec la source/le pouce.
+Pour finir, j'ai observé le fonctionnnement de la connection entre la carte arduino nano et le module Bluetooth dans le but futur d'envoyer 
+des informations recoltées par la carte arduino à une application android utilisant également une connection Bluetooth.
+Lors de cette experience j'ai essayé de brancher les pins RX et TX de la carte arduino nano aux pins TX et RX du module Bluetooth et j'ai
+pu apprendre que ces pins la (RX et TX de la carte nano) ne sont pas utilisables avec la fonction SoftwareSerial() associée au Bluetooth.
+Ainsi afin de corriger cette erreur j'ai definit les pins 3 et 4 comme RX et TX que j'ai respectivement branché aux pins TX et RX du module.
