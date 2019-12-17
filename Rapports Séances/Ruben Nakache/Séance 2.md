@@ -20,4 +20,4 @@ selon l'axe X, selon l'axe Y et selon l'axe z tout en effectuant des mouvements 
 
 -Test 6: Mouvement horizontal, puis Mouvement vertical et Horizontal et Vertical avec mouvement "parasite"2 (rotation).
 
-Ainsi j'ai observé la nécessité d'un calibrage afin d'utiliser l'accéléromètre.
+Ainsi j'ai observé la nécessité d'un calibrage afin d'utiliser l'accéléromètre c'est a dire afin de commencer à 0 pour la mesure de chaque accélération.
