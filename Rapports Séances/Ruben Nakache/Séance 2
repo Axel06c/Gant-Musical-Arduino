@@ -20,7 +20,7 @@ ici 16384.0 que j'avais écrit 16384,0 , j'ai donc remplacer la virgule par le p
 Enfin j'ai effectué des tests avec l'accéléromètre ceux-ci consistant à enregistrer les valeurs de l'accélération (avec le logiciel terminal)
 selon l'axe X, selon l'axe Y et selon l'axe z tout en effectuant des mouvements différents pour chaque test:
 Test 1: Mouvement horizontal puis selon, x selon y et selon z
-https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Test1.png?raw=true
+https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Test1.png
 Test 2: Mouvement horizontal, puis Mouvement vertical et Horizontal
 Test 3: Mouvement horizontal, puis Mouvement vertical, Horizontal et Vertical avec une inclinaison 1
 Test 4: Mouvement horizontal, puis Mouvement vertical et Horizontal et Vertical avec une inclinaison 2
