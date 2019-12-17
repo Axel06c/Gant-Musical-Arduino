@@ -1,8 +1,9 @@
 Séance 2:
-Le but de cette séance fut la prise en main de l’accéléromètre Gy-521 couplé à la puce MPU-6050.
+Le but de cette séance fut la prise en main de l’accéléromètre Gy-521 couplé à la puce MPU-6050.      
 Tout d'abord j'ai dû comprendre ce qu'est un accéléromètre, j'ai donc appris que c'est un condensateur utilisé comme un capteur.
-Puis j'ai dû comprendre le programme arduino permettant de régler/calibrer la puce MPU-6050, en effet pour utiliser l'accéléromètre il faut 
-réveiller la puce MPU-6050 afin que celle-ci communique avec l'accéléromètre.
+
+Puis j'ai dû comprendre le programme arduino permettant de régler/calibrer la puce MPU-6050, en effet pour utiliser l'accéléromètre il faut réveiller la puce MPU-6050 afin que celle-ci communique avec l'accéléromètre.
+
 Ensuite il a fallu appréhender le système de récupération des octets qui utilise des opérateurs logiques pour récupérer 2 registres de 8 bits 
 c'est a dire 2 octets que j'ai stocké dans 3 variables accélération (1 selon chaque axe).
 Il ne faut pas oublier le système de gamme qui nous permet de choisir la précision des valeurs renvoyées par l'accéléromètre, j'ai choisi la gamme la moins précise +-2G puisque lorsque je fais le mouvement de l'accéléromètre (donc du gant fictif) de haut en bas,
