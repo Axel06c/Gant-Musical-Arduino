@@ -8,8 +8,7 @@ Lors de premiers tests "basique" consistant à faire des mouvements simples selo
 Enfin j'ai effectué des tests avec l'accéléromètre ceux-ci consistant à enregistrer les valeurs de l'accélération (avec le logiciel terminal)
 selon l'axe X, selon l'axe Y et selon l'axe z tout en effectuant des mouvements différents pour chaque test:
 
--Test 1: Mouvement horizontal puis selon, x selon y et selon z.
-[Test1](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Test1.png)
+-Test 1: Mouvement horizontal puis selon, x selon y et selon z.[Test1](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Test1.png)
 
 -Test 2: Mouvement horizontal, puis Mouvement vertical et Horizontal.
 
@@ -17,8 +16,7 @@ selon l'axe X, selon l'axe Y et selon l'axe z tout en effectuant des mouvements 
 
 -Test 4: Mouvement horizontal, puis Mouvement vertical et Horizontal et Vertical avec une inclinaison 2.
 
--Test 5: Mouvement horizontal, puis Mouvement vertical et Horizontal et Vertical avec mouvement "parasite"1 (rotation).
-[Test5](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Test5.png)
+-Test 5: Mouvement horizontal, puis Mouvement vertical et Horizontal et Vertical avec mouvement "parasite"1 (rotation).[Test5](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Test5.png)
 
 -Test 6: Mouvement horizontal, puis Mouvement vertical et Horizontal et Vertical avec mouvement "parasite"2 (rotation).
 
