@@ -72,4 +72,3 @@ Enfin nous avons commencé le montage du gant pour cela nous avons pris un gant 
 Les fils connecté aux PIN d’entrée de  l’Arduino permettent de détecter le contact entre le pouce (connecté au 5V) et un doigt.
 
 
-![Montage Musicano](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Musicano%20montage.jpg)
