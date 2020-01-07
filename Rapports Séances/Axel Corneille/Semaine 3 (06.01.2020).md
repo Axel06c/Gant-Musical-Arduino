@@ -8,4 +8,4 @@ Le code est donc bien comprehensible et plus pratique.
 Pendant la séance, avec Ruben nous avons mis en commun nos avancées pour voir comment être plus productif pour la suite.
 On a également eu un problème au niveau de l'envoi des données bluetooth a partir de l'arduino (on envoyait un mauvais "format").
 Nous avons également commencé a préparer le gant avec les petites feuilles de cuivre pour avoir un début de visuel pour la présentation orale des projet.
-![Gant en fin de séance]()
+![Gant en fin de séance](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/1er%20montage%20gant.jpg)
