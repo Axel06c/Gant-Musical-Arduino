@@ -38,11 +38,11 @@ On peut constater une incertitude sur phi, impossible à mesurer car phi est dan
 
 On calculera cette matrice de rotation à chaque fois que le gant est immobile, et on utilisera cette nouvelle matrice ou la dernière calculée pour avoir la mesure d’accélération et de vitesse dans le référentiel terrestre, en appliquant la matrice inverse :
 
-Areel = M-1 *Am – A gravité
+Areel = M-1  *Am – A gravité
 
-Vreel = M-1 * Vm
+Vreel = M^(-1)  * Vm
 
-Et M-1 obtenu en appliquant des rotations avec -Phi autour de Z, puis -Téta rotation autour de X, puis -Psi rotation autour de Z.
+Et M^(-1) obtenu en appliquant des rotations avec -Phi autour de Z, puis -Téta rotation autour de X, puis -Psi rotation autour de Z.
 
 3/Détection de mouvement et Filtre optimisant
 
@@ -70,3 +70,6 @@ Enfin nous avons commencé le montage du gant pour cela nous avons pris un gant 
 ![Gant dessus](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Gant%20fils.jpg) ![Gant paume](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Gant%20cuivre.jpg)
 
 Les fils connecté aux PIN d’entrée de  l’Arduino permettent de détecter le contact entre le pouce (connecté au 5V) et un doigt.
+
+
+![Montage Musicano](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Musicano%20montage.jpg)
