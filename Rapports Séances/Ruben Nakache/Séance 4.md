@@ -3,7 +3,7 @@ Séance 4 :
 Au cours de cette séance malgré un problème technique, j'ai effectué des tests avec le module Bluetooth afin d'envoyer des données à l'application
 Android afin de finaliser la communication entre la carte arduino et l'application Android qui va les traiter d'une façon bien particulière.
 
-En effet, après concertation avec mon partenaire Axel, bous avons prévu de les envoyer sous la forme suivante:
+En effet, après concertation avec mon partenaire Axel, nous avons prévu de les envoyer sous la forme suivante:
 
 %choix du son ; volume ; rythme ; impulsion-
 
