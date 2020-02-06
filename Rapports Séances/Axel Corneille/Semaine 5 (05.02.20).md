@@ -8,9 +8,9 @@ La chaine de données est de la forme: "%1;20;10;0-"
 
 Premier terme (%) permet a l'application de détecter le début de réception de données à traiter         
 Dernier terme (-)permet a l'application de détecter la fin  de réception des données a traiter                                
-1er chiffre: indique quel doigt est appuyé  (aucuns,1,2,etc)
+1er chiffre: indique quel doigt est appuyé  (aucuns,1,2,etc)  
 2ème chiffre: indique  la valeur attribuée au volume   
-3ème chiffre: indique  la valeur attribuée au tempo
+3ème chiffre: indique  la valeur attribuée au tempo  
 4ème chiffre indique la valeur ettribuée a la secousse (1 si secoué, 0 sinon)  
 
 
