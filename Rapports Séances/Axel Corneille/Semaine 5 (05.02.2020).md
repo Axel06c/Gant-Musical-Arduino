@@ -14,7 +14,6 @@ Dernier terme (-)permet a l'application de détecter la fin  de réception des d
 4ème chiffre indique la valeur ettribuée a la secousse (1 si secoué, 0 sinon)  
 
 
-
 Pour le volume et le tempo, j'ai choisi de demander a Ruben a ce que l'acceléromètre envoie en continue les valeurs sans leur donner de maximum ou minmum.
 
 Pour le traitement, mon code sépare les différents chiffres et compare les valeurs de l'envoie d'avant avec le dernier.
@@ -22,3 +21,5 @@ Si les valeurs sont supérieures au valeurs précédentes, alors on incrémente 
 Cela permet de mieux se calibrer dans l'espace.
 
 Pour la semaine prochaine il me faut implémenter quand on ne touche aucuns doigts, faire en sorte que le compteur se remet a zéro et se calibre a nouveau quand on rappuie sur les doigts.
+
+Durant la semaine j'ai également aidé Ruben a faire le montage du gant (soudure, denudage des cables, test de courant, etc).
