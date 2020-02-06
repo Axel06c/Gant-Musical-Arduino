@@ -1,5 +1,5 @@
 Nous avons finalisé la connexion Bluetooth entre la carte arduino à l'aide du module Bluetooth et avec le téléphone à l'aide de  l'application Android. 
-Pour se faire nous avons envoyé des chaines de données "%choix du son;volume;rythme-", mesurées à l'aide du gyroscope/accéléromètre,  par le module Bluetooth au téléphone et nous attendions un changement de volume et de rythme pour le son choisi par l'utilisateur (ici nous).
+Pour se faire nous avons envoyé des chaines de données "%choix du son;volume;rythme;secousse-", mesurées à l'aide du gyroscope/accéléromètre,  par le module Bluetooth au téléphone et nous attendions un changement de volume et de rythme pour le son choisi par l'utilisateur (ici nous).
 Nous avons bien obtenu le changement attendu correspondant à une augmentation ou une diminution du volume et/ou du rythme du son.
 
 
