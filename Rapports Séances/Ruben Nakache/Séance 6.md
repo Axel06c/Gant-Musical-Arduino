@@ -26,6 +26,8 @@ En effet les données reçues, les valeurs du rythme et du volume, correspondaie
 En conclusion le projet en fonctionnel mais il reste de nombreuses taches à faire :
 
 -Alléger le montage en utilisant un circuit intégré et en soudant les composants
+
 -Créer une boite bracelet pour ranger le circuit intégré
+
 -Coudre les fils sur le gant et l’accéléromètre 
 
