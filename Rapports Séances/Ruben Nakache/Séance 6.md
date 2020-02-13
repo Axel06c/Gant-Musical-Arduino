@@ -3,10 +3,15 @@ Séance 6:
 Lors de cette séance nous nous sommes concentrés sur l'association du software et du hardware, c'est à dire l'association du montage arduino (module Bluetooth, gyromètre/accéléromètre, carte arduino), du gant et de l'application android.
 
 Ainsi nous avons vérifié la fonctionnalité de notre projet de par:
+
 1/La vérification de l'état fonctionnel du gyromètre/accéléromètre
+
 2/La vérification de l'acquisition des valeurs des données obtenues (rythme, volume, doigt/choix du son)
+
 3/La justesse des valeurs obtenues (cohérence avec nos attentes)
+
 4/Le changement des paramètres associés aux sons (volume et son) en fonction du mouvement effectué
+
 
 1/Pour vérifier l'état du gyromètre/accéléromètre, nous avons fait des tests consistant après avoir enfilé le gant a des mouvements de celui-ci pour vérifier que le gyromètre/accéléromètre nous envoyait les données attendues et qu'il était allumé.
 En effet les données reçues, les valeurs du rythme et du volume, correspondaient bien à ce que nous attendions (une entier positif correspondant à une augmentation et un entier négatif correspondant a une diminution).
