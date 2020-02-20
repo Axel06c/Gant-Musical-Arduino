@@ -20,3 +20,6 @@ Finalement, nous avons pu faire tester le Musicano nos collègues de classe afin
 Néanmoins il reste des modifications à faire quant à l'aspect esthétique du Musicano. 
 Mais il est également nécessaire de modifier le code arduino responsable de l'acquisition et de la transformation en nombre des mouvements 
 étant donner le peu de précision des mouvements.
+
+![Musicano fonctionnel 1](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Musicano%20fonctionnel1.jpg)
+![Musicano fonctionnel 2](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/Musicano%20fonctionnel%202.jpg)
