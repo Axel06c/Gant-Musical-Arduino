@@ -10,6 +10,10 @@ Pour cela nous avons connecté le module Bluetooth à l'application et avons fai
 Et le résultat fut assez concluant, le rythme et le volume sont bien modifiés en fonction de nos mouvements et de façon plutôt correcte.
 Finalement, nous avons pu faire tester le Musicano nos collègues de classe afin d'en avoir un retour .
 
+(Même videos qu'Axel)
+![vidéo gant 1](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/video%20gant%201.mp4)
+![vidéo gant 2](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/video%20gant%202.mp4)
+![vidéo gant 3](https://github.com/Axel06c/Gant-Musical-Arduino/blob/master/lib/Images/video%20gant%203.mp4)
 
 
 Néanmoins il reste des modifications à faire quant à l'aspect esthétique du Musicano. 
